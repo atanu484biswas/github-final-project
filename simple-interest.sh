@@ -1,5 +1,5 @@
 #!/bin/bash
-   # Edited
+   # Edited with pencil
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
 
